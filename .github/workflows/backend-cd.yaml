@@ -11,7 +11,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  EKS_CLUSTER_NAME: cluster
+  EKS_CLUSTER_NAME: mp-cluster
   ECR_REPOSITORY: mp-backend
 
 jobs:
